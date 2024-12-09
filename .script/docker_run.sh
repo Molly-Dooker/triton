@@ -12,4 +12,3 @@ docker run -it \
   --ipc=host \
   --hostname ${docker_container_name} \
   ${docker_image_name}
-
